@@ -1,4 +1,4 @@
-## 121 Best Time to Buy and Sell Stock
+## 121 Best Time to Buy and Sell Stock - Submitted on 6/13/20
 
 Say you have an array for which the ith element is the price of a given stock on day i.
 
@@ -507,7 +507,7 @@ public:
 };
 ```
 
-## 206 Reverse Linked List
+## 206 Reverse Linked List - Submitted on 6/11/20
 
 Reverse a singly linked list.
 
@@ -585,7 +585,7 @@ class Solution{
 };
 ```
 
-## 122 Best Time to Buy and Sell Stock II
+## 122 Best Time to Buy and Sell Stock II - Submitted on 6/13/20
 Say you have an array for which the ith element is the price of a given stock on day i.
 
 Design an algorithm to find the maximum profit. You may complete as many transactions as you like (ie, buy one and sell one share of the stock multiple times). However, you may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
@@ -1434,7 +1434,7 @@ class Solution {
 };
 ```
 
-## 26. Remove Duplicates from Sorted Array
+## 26. Remove Duplicates from Sorted Array - Submitted on 4 months ago.
 
 Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.
 
@@ -3330,7 +3330,7 @@ public:
 };
 ```
 
-## 7. Reverse Integer
+## 7. Reverse Integer Submitted on 6/9/20
 
 Reverse digits of an integer.
 
